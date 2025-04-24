@@ -11,7 +11,7 @@ Atualmente, estou cursando Desenvolvimento de Sistemas pelo SENAI, onde estou da
 Quero seguir na programação porque acredito no poder da tecnologia para transformar vidas — inclusive a minha. Meu objetivo é crescer como profissional, aprender com os desafios e construir um futuro sólido na área de desenvolvimento
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caualeiteferreira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cauãleiteferreira/)
 
 ### 🤖 Tecnologias que domino ou estou iniciando
 
