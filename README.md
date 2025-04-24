@@ -4,6 +4,8 @@
 
 ### 🌱Iniciante em back-end e front-end
 
+<br/>
+
 Olá! Me chamo Cauã Leite Ferreira, tenho 18 anos e sou iniciante em desenvolvimento Front-end e Back-end. Apaixonado por tecnologia, estou sempre buscando aprender e evoluir na área.
 
 Atualmente, estou cursando Desenvolvimento de Sistemas pelo SENAI, onde estou dando meus primeiros passos como desenvolvedor. Escolhi essa área porque gosto de criar, resolver problemas e ver ideias se transformando em soluções reais através do código.
@@ -12,6 +14,9 @@ Quero seguir na programação porque acredito no poder da tecnologia para transf
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cauãleiteferreira/)
+
+<br/>
+<br/>
 
 ### 🤖 Tecnologias que domino ou estou iniciando
 
@@ -60,7 +65,9 @@ Quero seguir na programação porque acredito no poder da tecnologia para transf
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
-<br>
+<br/>
+<br/>
+<br/>
 
 ### ⚙️ Outras ferramentas que utilizo 
 
@@ -99,6 +106,10 @@ Quero seguir na programação porque acredito no poder da tecnologia para transf
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
+
+<br/>
+<br/>
+<br/>
 
 ### 📈 Estatísticas
 
